@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BaseAndroidPro</string>
+    <string name="toast_no_sd">请检查你的"战斗"机是否有sd卡</string>
+    <string name="toast_no_album">我寻寻觅觅，没有找到系统相册</string>
+    <string name="toast_photo_empty">请检查你的"装备",图片无法获取！</string>
+    <string name="toast_un_image">不要坑我吧，你选择的不是图片</string>
+    <string name="choose_phone">选择图片</string>
+
+</resources>

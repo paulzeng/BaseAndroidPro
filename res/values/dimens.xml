@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 截取， 上传头像尺寸 -->
+    <dimen name="up_head_size">150px</dimen>
+
+</resources>
